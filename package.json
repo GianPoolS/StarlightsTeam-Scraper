@@ -1,5 +1,5 @@
 {
-  "name": "StarlightsTeam/Scraper",
+  "name": "StarlightsTeam-Scraper",
   "version": "2.0.0",
   "description": "おDanịel.xyz",
   "main": "index.js",
@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/StarlightsTeam/StarlightsTeam-Scraper/issues"
   },
-  "homepage": "https://github.com/StarlightsTeam/StarlightsTeam-Scraper#readme"
+  "homepage": "https://github.com/StarlightsTeam/StarlightsTeam-Scraper#readme",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
